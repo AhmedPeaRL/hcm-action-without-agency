@@ -1,0 +1,4 @@
+- Goal-driven execution
+- Trigger-based escalation
+- Reward-conditioned behavior
+- Reaction to observation
